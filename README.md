@@ -57,9 +57,3 @@
 - Microphone (for voice mode)
 - Internet connection
 
-### Installation
-
-#### 1. Clone or Download
-```bash
-git clone https://github.com/yourusername/Project_JARVIS.git
-cd Project_JARVIS

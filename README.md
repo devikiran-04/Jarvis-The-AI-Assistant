@@ -1,23 +1,5 @@
 # 🤖 JARVIS - AI Personal Assistant
 
-&lt;p align="center"&gt;
-  &lt;img src="assets/arc_reactor.png" width="200" alt="JARVIS Logo"&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;b&gt;Just A Rather Very Intelligent System&lt;/b&gt;&lt;br&gt;
-  A modular, voice-activated AI assistant with a futuristic HUD interface
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python 3.8+"&gt;
-  &lt;img src="https://img.shields.io/badge/PyQt6-GUI-green.svg" alt="PyQt6"&gt;
-  &lt;img src="https://img.shields.io/badge/Groq-LLM-orange.svg" alt="Groq API"&gt;
-  &lt;img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License"&gt;
-&lt;/p&gt;
-
----
-
 ## ✨ Features
 
 ### 🎯 Core Capabilities
